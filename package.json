@@ -1,0 +1,14 @@
+{
+  "name": "UUID.js",
+  "title":"uuid",
+  "version": "3.3.1",
+  "description": "uuid",
+  "main":"dist/uuid.core.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bo0liu/UUID.js.git"
+  },
+  "scripts": {
+    "build": "npm install"
+  }
+}
